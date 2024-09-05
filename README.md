@@ -37,4 +37,11 @@ Data were taken from : https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf
 -- Position Embedding: Adds positional information to the patches.  
 -- Transformer Encoder: Applies multiple layers of self-attention and feed-forward neural networks.  
 -- Classification Head: Maps the final representation to the class labels.  
--- compare the accuracy and performance of ViT with pure CNN and other transfer learning in TransferLearning-CIFAR-Project.ipynb  
+-- compare the accuracy and performance of ViT with pure CNN and other transfer learning in TransferLearning-CIFAR-Project.ipynb 
+
+
+**Overview of Object Detection and localization project**     
+-- Object Detection model on images  
+-- Tensor Flow object detection models that have been trained on the COCO 2017 dataset, from TensorFlow Hub   
+-- object detection with YOLO  
+--compare two models Mask R-CNN Inception and YOLO in object detection  
