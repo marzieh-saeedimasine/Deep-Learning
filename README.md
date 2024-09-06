@@ -40,8 +40,13 @@ Data were taken from : https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf
 -- compare the accuracy and performance of ViT with pure CNN and other transfer learning in TransferLearning-CIFAR-Project.ipynb 
 
 
-**Overview of Object Detection and localization project**     
+**Overview of object detection and localization project with different models**     
 -- Object Detection model on images  
 -- Tensor Flow object detection models that have been trained on the COCO 2017 dataset, from TensorFlow Hub   
 -- object detection with YOLO  
 --compare two models Mask R-CNN Inception and YOLO in object detection  
+
+
+**Overview of Deep learning models**  
+-- ResNets50 consists of 50 layers of identity_block and Convolutional_block with skip connections
+-- UNet model (U-shape) consists of an encoder (downsampler) and decoder (upsampler) with a bottleneck in between. It uses the skip connections that concatenate encoder block outputs to each stage of the decoder. 
