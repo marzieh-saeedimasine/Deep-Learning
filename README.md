@@ -1,8 +1,8 @@
-Deep Learning Machine Learning modelling Repo:  
+Deep Learning modeling Repo:  
 
-This repository provides a guide for deep learning modelling of different computer vision projects  
+This repository provides a guide for deep learning modeling of different computer vision projects  
 
-**Overview of deep learning modelling for Mnist digits classification project**    
+**Overview of deep learning modeling for Mnist digits classification project**    
 -- 70000 digit images from Mnist dataset have been used for multi class classifications  
 -- Dense neural network has been tested for image classification     
 -- Convolutional neural network (CNN) used for modeling
@@ -47,6 +47,6 @@ Data were taken from : https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf
 --compare two models Mask R-CNN Inception and YOLO in object detection  
 
 
-**Overview of Deep learning models**  
+**Overview of deep learning models**  
 -- ResNets50 consists of 50 layers of identity_block and Convolutional_block with skip connections
 -- UNet model (U-shape) consists of an encoder (downsampler) and decoder (upsampler) with a bottleneck in between. It uses the skip connections that concatenate encoder block outputs to each stage of the decoder. 
